@@ -254,6 +254,12 @@ Utility for tracking and managing local grocery store (makolet) hours and shoppi
 [![Vue Repo](https://img.shields.io/badge/Vue-Repo-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://github.com/danielrosehill/MakoletTime)
 [View Repository](https://github.com/danielrosehill/MakoletTime)
 
+### Hebrew Tech Vocab
+Reference guide for Hebrew technology vocabulary and terminology commonly used in Israel's tech sector.
+
+[![Vue Repo](https://img.shields.io/badge/Vue-Repo-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://github.com/danielrosehill/Hebrew-Tech-Vocab)
+[View Repository](https://github.com/danielrosehill/Hebrew-Tech-Vocab)
+
 ---
 
 ## Environmental & Location Data
