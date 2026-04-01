@@ -226,6 +226,12 @@ Automated workflow using N8N and Perplexity Sonar to generate morning news brief
 
 ## AI & Data Tools
 
+### GreenInvoice MCP
+MCP server for Israeli invoicing and accounting via the Green Invoice API — create invoices, receipts, manage clients, and more.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/GreenInvoice-MCP)
+[View Repository](https://github.com/danielrosehill/GreenInvoice-MCP)
+
 ### Israel-Related MCPs
 Model Context Protocol (MCP) servers and integrations specific to Israeli data sources and services.
 
