@@ -238,6 +238,12 @@ Model Context Protocol (MCP) servers and integrations specific to Israeli data s
 [![Vue Repo](https://img.shields.io/badge/Vue-Repo-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://github.com/danielrosehill/Israel-Related-MCPs)
 [View Repository](https://github.com/danielrosehill/Israel-Related-MCPs)
 
+### Data Israel
+AI agent network that connects to Israeli open data APIs (data.gov.il & CBS) — ask questions in Hebrew, get answers grounded in real data with charts and sources.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/LiorVainer/data-israel)
+[View Repository](https://github.com/LiorVainer/data-israel)
+
 ### Oref GPT
 GPT-based interface for Oref (Israeli Home Front Command) data and alerts.
 
