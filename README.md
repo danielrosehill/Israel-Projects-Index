@@ -146,6 +146,12 @@ Microservices Docker stack for Pikud HaOref red alert monitoring, home automatio
 [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Red-Alert-Monitoring-Stack)
 [View Repository](https://github.com/danielrosehill/Red-Alert-Monitoring-Stack)
 
+### Israel Geomap APK
+Android app for real-time visualization of Pikud HaOref alerts on an interactive Leaflet map with national view, Jerusalem close-up, and scrollable alert feed.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Israel-Geomap-APK)
+[View Repository](https://github.com/danielrosehill/Israel-Geomap-APK)
+
 ### Red Alert Geodash
 Real-time dashboard for Israel's Pikud HaOref rocket/situation alerts with multi-map Leaflet views and polygon overlays.
 
