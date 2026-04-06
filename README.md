@@ -108,6 +108,12 @@ Emergency guide packaged as an Android APK.
 [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Israel-Emergency-Guide-APK)
 [View Repository](https://github.com/danielrosehill/Israel-Emergency-Guide-APK)
 
+### Israel Home Front Ideas
+A few open source ideas for the Pikud HaOref system collected over time.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Israel-Home-Front-Ideas)
+[View Repository](https://github.com/danielrosehill/Israel-Home-Front-Ideas)
+
 ---
 
 ## OSINT & Situational Awareness
