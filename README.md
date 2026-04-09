@@ -244,6 +244,12 @@ Automated workflow using N8N and Perplexity Sonar to generate morning news brief
 
 ## AI & Data Tools
 
+### Claude Israel
+Index of people and projects building with Claude (including Claude Code) in Israel.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Claude-Israel)
+[View Repository](https://github.com/danielrosehill/Claude-Israel)
+
 ### GreenInvoice MCP
 MCP server for Israeli invoicing and accounting via the Green Invoice API — create invoices, receipts, manage clients, and more.
 
