@@ -302,6 +302,12 @@ Reference guide for Hebrew technology vocabulary and terminology commonly used i
 [![Vue Repo](https://img.shields.io/badge/Vue-Repo-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://github.com/danielrosehill/Hebrew-Tech-Vocab)
 [View Repository](https://github.com/danielrosehill/Hebrew-Tech-Vocab)
 
+### Voxcast
+Android voice-to-text reformatter with bilingual presets — includes casual Hebrew and Hebrew business email modes (the latter returns a separate subject line and body for two-tap copy). Hold-to-talk, single-pass transcription + reformatting via OpenRouter / Gemini 3.1 Flash Lite.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Voxcast)
+[View Repository](https://github.com/danielrosehill/Voxcast)
+
 ---
 
 ## Environmental & Location Data
