@@ -322,6 +322,12 @@ World Air Quality Index (WAQI) monitoring stations data for Israel with mapping 
 
 ## Creative & Media
 
+### Awesome Hebrew Fonts
+Curated point-in-time list of great Hebrew fonts on Google Fonts, with a JSON-driven installer (CLI + GUI) and live HTML samples.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Awesome-Hebrew-Fonts)
+[View Repository](https://github.com/danielrosehill/Awesome-Hebrew-Fonts)
+
 ### Israel Wallpapers
 Collection of high-quality wallpapers featuring Israeli landscapes, cities, and scenery.
 
