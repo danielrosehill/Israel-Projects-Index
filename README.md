@@ -250,6 +250,12 @@ Index of Israeli open-data repositories, datasets, and APIs — government catal
 [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Israel-Open-Data-Resources)
 [View Repository](https://github.com/danielrosehill/Israel-Open-Data-Resources)
 
+### Israel Open Data Catalogue — Translations
+Standalone Hebrew↔English translation mapping for every dataset on data.gov.il. Drop-in `translations.json` keyed by dataset slug, with date-stamped point-in-time snapshots. MIT-licensed.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Israel-Open-Data-Catalogue-Translations)
+[![HF Dataset](https://img.shields.io/badge/HF_Dataset-Israel_Open_Data_Catalogue-FFD21E?style=for-the-badge&logo=huggingface)](https://huggingface.co/datasets/danielrosehill/Israel-Open-Data-Catalogue)
+
 ### Claude Israel
 Index of people and projects building with Claude (including Claude Code) in Israel.
 
