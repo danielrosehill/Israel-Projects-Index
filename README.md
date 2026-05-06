@@ -244,6 +244,12 @@ Automated workflow using N8N and Perplexity Sonar to generate morning news brief
 
 ## AI & Data Tools
 
+### Israel Open Data Resources
+Index of Israeli open-data repositories, datasets, and APIs — government catalogues, scrapers, parsers, and MCP servers. Includes a point-in-time snapshot of the data.gov.il CKAN catalogue (1,194 datasets across 61 publishing orgs) with an English index and Hebrew→English translation mapping.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Israel-Open-Data-Resources)
+[View Repository](https://github.com/danielrosehill/Israel-Open-Data-Resources)
+
 ### Claude Israel
 Index of people and projects building with Claude (including Claude Code) in Israel.
 
