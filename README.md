@@ -208,6 +208,14 @@ Makeshift DIY guide for getting internet into protected shelters in Israel.
 
 ## Law & Policy
 
+### Israel ADHD Medication Access
+The rules governing controlled stimulant dispensing in Israel, collated from primary sources and set against a documented 2026 case in which none of them were applied. Includes תקנה 13(א)(8)(ב), which permits up to 62 days for ADHD and which no one in the chain named. Redacted; evidence-tiered.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Israel-ADHD-Medication-Access)
+[View Repository](https://github.com/danielrosehill/Israel-ADHD-Medication-Access)
+
+---
+
 ### Israel Law Research
 Research agent for Israeli law.
 
