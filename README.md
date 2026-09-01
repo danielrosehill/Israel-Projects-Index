@@ -6,6 +6,19 @@ A comprehensive index of Israel-related repositories, datasets, and Hugging Face
 
 ---
 
+## Sub-Indexes
+
+Narrower indexes that sit under this one. Where a repository fits both, the
+narrower index is its home and this one is the cross-reference.
+
+### Jerusalem Projects Index
+Projects whose subject is Jerusalem as a place — city streets and public space, municipal reporting channels, and specific Jerusalem addresses.
+
+[![Repo](https://img.shields.io/badge/Index-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Jerusalem-Projects-Index)
+[View Repository](https://github.com/danielrosehill/Jerusalem-Projects-Index)
+
+---
+
 ## Home Automation & Smart Home
 
 ### Awesome Israeli Jewish Home Assistant
