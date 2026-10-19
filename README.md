@@ -109,11 +109,11 @@ Readiness SOPs for wartime in Israel.
 [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Israel-Preparedness-SOPs)
 [View Repository](https://github.com/danielrosehill/Israel-Preparedness-SOPs)
 
-### Israel First Aid
-First aid procedures and decision-making flowchart based on MDA/Hatzalah procedures.
+### Family First Aid Android
+Offline Android first-aid app for families in Israel (MDA / Hatzalah): adult + child protocols, interactive decision flows, spaced review.
 
-[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Israel-First-Aid)
-[View Repository](https://github.com/danielrosehill/Israel-First-Aid)
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Family-First-Aid-Android)
+[View Repository](https://github.com/danielrosehill/Family-First-Aid-Android)
 
 ### Israel Emergency Guide APK
 Emergency guide packaged as an Android APK.
