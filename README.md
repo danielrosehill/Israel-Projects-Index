@@ -1,4 +1,4 @@
-[![Master Index](https://img.shields.io/badge/Master_Index-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Github-Master-Index)
+[![Master Index](https://img.shields.io/badge/Master_Index-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Start-Here)
 
 # Israel Projects Index
 
@@ -423,7 +423,7 @@ Dataset documenting Jerusalem's modern architectural development and high-rise c
 
 ## About
 
-This index is maintained by [Daniel Rosehill](https://danielrosehill.com). For a complete list of all projects, see the [GitHub Master Index](https://github.com/danielrosehill/Github-Master-Index).
+This index is maintained by [Daniel Rosehill](https://danielrosehill.com). For a complete list of all projects, see the [GitHub Master Index](https://github.com/danielrosehill/Start-Here).
 
 ## License
 
