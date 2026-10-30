@@ -4,6 +4,8 @@
 
 A comprehensive index of Israel-related repositories, datasets, and Hugging Face spaces maintained by Daniel Rosehill.
 
+**Last Updated:** October 2026
+
 ---
 
 ## Sub-Indexes
@@ -85,18 +87,6 @@ Voice agent implementation for readiness checklists.
 [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Readiness-Voice-Agent)
 [View Repository](https://github.com/danielrosehill/Readiness-Voice-Agent)
 
-### Israel Preparedness Planner
-Preparedness planning tool for civilian use in Israel.
-
-[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Israel-Preparedness-Planner)
-[View Repository](https://github.com/danielrosehill/Israel-Preparedness-Planner)
-
-### Israel Emergency Readiness PWA
-Interactive PWA for Israel wartime emergency preparedness, based on Home Front Command guidance.
-
-[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Israel-Emergency-Readiness-PWA)
-[View Repository](https://github.com/danielrosehill/Israel-Emergency-Readiness-PWA)
-
 ### Israel Civilian Readiness Guide
 A consolidated series of readiness checklists, SOPs, and peacetime prep guides. Intended for civilian use in Israel.
 
@@ -115,12 +105,6 @@ Offline Android first-aid app for families in Israel (MDA / Hatzalah): adult + c
 [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Family-First-Aid-Android)
 [View Repository](https://github.com/danielrosehill/Family-First-Aid-Android)
 
-### Israel Emergency Guide APK
-Emergency guide packaged as an Android APK.
-
-[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Israel-Emergency-Guide-APK)
-[View Repository](https://github.com/danielrosehill/Israel-Emergency-Guide-APK)
-
 ### Israel Home Front Ideas
 A few open source ideas for the Pikud HaOref system collected over time.
 
@@ -131,31 +115,11 @@ A few open source ideas for the Pikud HaOref system collected over time.
 
 ## OSINT & Situational Awareness
 
-### Iran-Israel OSINT Project
-OSINT microsite for Iran-Israel war data and analysis.
-
-[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Iran-Israel-OSINT-Project)
-[View Repository](https://github.com/danielrosehill/Iran-Israel-OSINT-Project)
-
 ### Iran-Israel War 2026 OSINT Data
 Structuring the data footprint of the Iranian aerial warfare attacks on Israel, the US, and others from 2024-present.
 
 [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Iran-Israel-War-2026-OSINT-Data)
 [View Repository](https://github.com/danielrosehill/Iran-Israel-War-2026-OSINT-Data)
-
-### Israel SITREP Telegram Bot
-Telegram bot for Israel situational reports.
-
-[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Israel-SITREP-Telegram-Bot)
-[View Repository](https://github.com/danielrosehill/Israel-SITREP-Telegram-Bot)
-
-### Israel SITREP Podcast
-Podcast for Israel situational reports.
-
-[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Israel-SITREP-Podcast)
-[View Repository](https://github.com/danielrosehill/Israel-SITREP-Podcast)
-
----
 
 ## Red Alert Monitoring
 
@@ -176,12 +140,6 @@ Real-time dashboard for Israel's Pikud HaOref rocket/situation alerts with multi
 
 [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Red-Alert-Geodash)
 [View Repository](https://github.com/danielrosehill/Red-Alert-Geodash)
-
-### Red Alert Telegram Bot
-On-demand situational intelligence Telegram bot for Pikud HaOref alerts.
-
-[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Red-Alert-Telegram-Bot)
-[View Repository](https://github.com/danielrosehill/Red-Alert-Telegram-Bot)
 
 ### Awesome Red Alerts
 A curated list of red alert (צבע אדום) civilian notification projects for Israel.
@@ -226,14 +184,6 @@ The rules governing controlled stimulant dispensing in Israel, collated from pri
 
 [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Israel-ADHD-Medication-Access)
 [View Repository](https://github.com/danielrosehill/Israel-ADHD-Medication-Access)
-
----
-
-### Israel Law Research
-Research agent for Israeli law.
-
-[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Israel-Law-Research)
-[View Repository](https://github.com/danielrosehill/Israel-Law-Research)
 
 ---
 
@@ -289,17 +239,11 @@ MCP server for Israeli invoicing and accounting via the Green Invoice API — cr
 [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/GreenInvoice-MCP)
 [View Repository](https://github.com/danielrosehill/GreenInvoice-MCP)
 
-### Israeli Tech Shopping MCP
-MCP server for comparison shopping across Israeli tech retailers with browser automation.
-
-[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Israeli-Tech-Shopping-MCP)
-[View Repository](https://github.com/danielrosehill/Israeli-Tech-Shopping-MCP)
-
 ### Israel-Related MCPs
 Model Context Protocol (MCP) servers and integrations specific to Israeli data sources and services.
 
-[![Vue Repo](https://img.shields.io/badge/Vue-Repo-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://github.com/danielrosehill/Israel-Related-MCPs)
-[View Repository](https://github.com/danielrosehill/Israel-Related-MCPs)
+[![Vue Repo](https://img.shields.io/badge/Vue-Repo-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://github.com/danielrosehill/Israeli-AI)
+[View Repository](https://github.com/danielrosehill/Israeli-AI)
 
 ### Data Israel
 AI agent network that connects to Israeli open data APIs (data.gov.il & CBS) — ask questions in Hebrew, get answers grounded in real data with charts and sources.
